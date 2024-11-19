@@ -17,6 +17,9 @@
 Conductor is a platform _originally_ created at **Netflix** to orchestrate microservices and events.
 [Conductor OSS](https://conductor-oss.org) is maintained by the team of developers at [Orkes.io](https://orkes.io/) along with members of the open source community.
 
+[![conductor_oss_getting_started](https://github.com/user-attachments/assets/6153aa58-8ad1-4ec5-93d1-38ba1b83e3f4)](https://www.youtube.com/watch?v=X4peyC_GvN8)
+
+
 - - - 
 # Table of Contents
 1. [What is Conductor?](#what-is-conductor)
